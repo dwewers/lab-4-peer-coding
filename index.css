@@ -1,0 +1,29 @@
+
+        body{
+            background-color: silver;
+        }
+        .myHeader{
+            font-family: fantasy;
+            font-size: 100px;
+        }
+        
+
+        
+.box{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    padding-top: 20em;
+    padding-right: 20em;
+    border-radius: 20px;
+    background: url(https://ichef.bbci.co.uk/news/1024/cpsprodpb/151AB/production/_111434468_gettyimages-1143489763.jpg);
+background-position: center;
+background-size:cover ;
+}
+.list{
+    font-size: xx-large;
+    font-family: fantasy;
+    font-weight: 100;
+    color: #ffcf00;
+}
+    
